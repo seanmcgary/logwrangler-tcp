@@ -1,0 +1,26 @@
+{
+  "name": "logwrangler-tcp",
+  "version": "0.0.1",
+  "description": "TCP handler for Logwrangler logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seanmcgary/logwrangler-tcp"
+  },
+  "keywords": [
+    "logwrangler",
+    "tcp",
+    "logging"
+  ],
+  "author": "Sean McGary <sean@seanmcgary.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanmcgary/logwrangler-tcp/issues"
+  },
+  "dependencies": {
+    "lodash": "~2.4.1"
+  }
+}
